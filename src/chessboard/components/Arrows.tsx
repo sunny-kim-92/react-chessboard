@@ -10,7 +10,6 @@ export const Arrows = () => {
     newArrow,
     boardOrientation,
     boardWidth,
-
     customArrowColor,
   } = useChessboard();
 
